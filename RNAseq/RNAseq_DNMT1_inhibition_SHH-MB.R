@@ -1,5 +1,5 @@
 getwd()
-setwd("\\\\fileserv1/groups/Neuro-Oncology/Clinical Neuro-Oncology/Foteini/R_DESeq2/Test/Data")
+setwd(directory)
 library(DESeq2)
 # cannot load pheatmap although package installed apparently, load heatmap instead 
 # read what the fehler says, execute it (delete some folder from documents bla bla) and try to install again, works!
